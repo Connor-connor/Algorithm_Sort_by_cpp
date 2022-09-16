@@ -3,3 +3,10 @@
 237	332	6849532810354139	Sort.exe	bf3077efc7942515
 2	227	6849532809337277	CMakeFiles/Sort.dir/src/bubble_sort/main.cpp.obj	3c440d755f60c62e
 5	228	6849532809347209	CMakeFiles/Sort.dir/src/bubble_sort/BubbleSort.cpp.obj	50d1d9efbb98cd87
+2	293	6849966453215619	CMakeFiles/Sort.dir/src/bubble_sort/main.cpp.obj	3c440d755f60c62e
+5	294	6849966453215619	CMakeFiles/Sort.dir/src/merge_sort/main.cpp.obj	6e865740eaaeefc2
+11	294	6849966453215619	CMakeFiles/Sort.dir/src/merge_sort/MergeSort.cpp.obj	1e9bb5d92579cb4b
+8	295	6849966453225908	CMakeFiles/Sort.dir/src/bubble_sort/BubbleSort.cpp.obj	50d1d9efbb98cd87
+3	234	6849966827344118	CMakeFiles/Sort.dir/main.cpp.obj	ee8c193ee843954c
+6	243	6849966827354084	CMakeFiles/Sort.dir/src/merge_sort/main.cpp.obj	6e865740eaaeefc2
+243	340	6849966828376299	Sort.exe	7607b29d2afa39a5

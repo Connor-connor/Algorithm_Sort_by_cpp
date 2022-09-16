@@ -2,7 +2,7 @@
 #include "BubbleSort.h"
 using namespace std;
 
-int main(){
+int main1(){
     int arr0[] = {1,2,3,6,4,5,7,8,9};
     int arr1A[] = {1,2,3,6,4,5,7,8,9};
     int arr1B[] = {1,2,3,6,4,5,7,8,9};

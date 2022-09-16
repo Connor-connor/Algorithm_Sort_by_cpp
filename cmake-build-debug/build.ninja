@@ -73,6 +73,12 @@ build CMakeFiles/Sort.dir/src/merge_sort/MergeSort.cpp.obj: CXX_COMPILER__Sort_D
   OBJECT_DIR = CMakeFiles\Sort.dir
   OBJECT_FILE_DIR = CMakeFiles\Sort.dir\src\merge_sort
 
+build CMakeFiles/Sort.dir/src/merge_sort/main.cpp.obj: CXX_COMPILER__Sort_Debug E$:/Project/C/Sort/src/merge_sort/main.cpp || cmake_object_order_depends_target_Sort
+  DEP_FILE = CMakeFiles\Sort.dir\src\merge_sort\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\Sort.dir\src\merge_sort
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Sort
@@ -81,7 +87,7 @@ build CMakeFiles/Sort.dir/src/merge_sort/MergeSort.cpp.obj: CXX_COMPILER__Sort_D
 #############################################
 # Link the executable Sort.exe
 
-build Sort.exe: CXX_EXECUTABLE_LINKER__Sort_Debug CMakeFiles/Sort.dir/main.cpp.obj CMakeFiles/Sort.dir/src/bubble_sort/main.cpp.obj CMakeFiles/Sort.dir/src/bubble_sort/BubbleSort.cpp.obj CMakeFiles/Sort.dir/src/merge_sort/MergeSort.cpp.obj
+build Sort.exe: CXX_EXECUTABLE_LINKER__Sort_Debug CMakeFiles/Sort.dir/main.cpp.obj CMakeFiles/Sort.dir/src/bubble_sort/main.cpp.obj CMakeFiles/Sort.dir/src/bubble_sort/BubbleSort.cpp.obj CMakeFiles/Sort.dir/src/merge_sort/MergeSort.cpp.obj CMakeFiles/Sort.dir/src/merge_sort/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Sort.dir
